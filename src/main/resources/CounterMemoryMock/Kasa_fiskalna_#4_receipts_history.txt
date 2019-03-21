@@ -1,0 +1,22 @@
+----------------FOR: 2019-03-20T16:37:14.267 OVERALL IS: 32.97 ----------------
+Mydlo waniliowe, Price=7.99  x3.0       = 23.97 PLN
+Smietana Super, Price=3.99  x2.0       = 7.98 PLN
+Makaron spaghetti, Price=5.4  x4.0       = 21.6 PLN
+TOTAL BILL: 53.55PLN
+----------------FOR: 2019-03-20T16:39:42.968 OVERALL IS: 53.55 ----------------
+Smietana Super, Price=3.99  x2.0       = 7.98 PLN
+Makaron spaghetti, Price=5.4  x2.0       = 10.8 PLN
+Baton orzechowy, Price=2.99  x1.0       = 2.99 PLN
+TOTAL BILL: 21.77PLN
+----------------FOR: 2019-03-20T16:40:37.786 OVERALL IS: 21.77 ----------------
+Baton orzechowy, Price=2.99  x1.0       = 2.99 PLN
+Maslo Extra, Price=6.59  x3.0       = 19.77 PLN
+Makaron spaghetti, Price=5.4  x2.0       = 10.8 PLN
+Plyn do prania XXL, Price=49.99  x2.0       = 99.98 PLN
+TOTAL BILL: 133.54PLN
+----------------FOR: 2019-03-20T16:41:18.039 OVERALL IS: 155.31 ----------------
+Smietana Super, Price=3.99  x2.0       = 7.98 PLN
+Makaron spaghetti, Price=5.4  x33.0       = 178.2 PLN
+Maslo Extra, Price=6.59  x1.0       = 6.59 PLN
+TOTAL BILL: 192.77PLN
+----------------FOR: 2019-03-20T17:45:21.484 OVERALL IS: 192.77 ----------------

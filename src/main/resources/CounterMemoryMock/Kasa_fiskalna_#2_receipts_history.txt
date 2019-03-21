@@ -1,0 +1,20 @@
+Smietana Super, Price=3.99  x2.0       = 7.98 PLN
+Zel pod prysznic DUO, Price=15.99  x3.0       = 47.97 PLN
+Baton orzechowy, Price=2.99  x4.0       = 11.96 PLN
+Makaron spaghetti, Price=5.4  x1.0       = 5.4 PLN
+TOTAL BILL: 73.31PLN
+----------------FOR: 2019-03-20T11:58:42.258 OVERALL IS: 73.31 ----------------
+Mleko 1l, Price=4.5  x2.0       = 9.0 PLN
+TOTAL BILL: 9.0PLN
+----------------FOR: 2019-03-20T11:58:46.552 OVERALL IS: 82.31 ----------------
+Mleko 1l, Price=4.5  x3.0       = 13.5 PLN
+Plyn do prania XXL, Price=49.99  x1.0       = 49.99 PLN
+Plyn do prania XXL, Price=49.99  x1.0       = 49.99 PLN
+Baton orzechowy, Price=2.99  x1.0       = 2.99 PLN
+Smietana Super, Price=3.99  x4.0       = 15.96 PLN
+TOTAL BILL: 132.43PLN
+----------------FOR: 2019-03-20T11:59:10.955 OVERALL IS: 214.74 ----------------
+Mleko 1l, Price=4.5  x5.0       = 22.5 PLN
+Woda niegazowana, Price=2.2  x3.0       = 6.6 PLN
+TOTAL BILL: 29.1PLN
+----------------FOR: 2019-03-20T11:59:17.914 OVERALL IS: 243.84 ----------------

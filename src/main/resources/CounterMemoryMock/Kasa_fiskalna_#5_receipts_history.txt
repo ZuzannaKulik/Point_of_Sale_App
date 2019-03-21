@@ -1,0 +1,6 @@
+Smietana Super, Price=3.99  x1.0       = 3.99 PLN
+TOTAL BILL: 3.99PLN
+----------------FOR: 2019-03-20T20:55:29.483 OVERALL IS: 3.99 ----------------
+Smietana Super, Price=3.99  x5.0       = 19.95 PLN
+TOTAL BILL: 19.95PLN
+----------------FOR: 2019-03-20T20:56:20.854 OVERALL IS: 19.95 ----------------
